@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sujal
 - 👀 I’m interested in web development 
-- ⚛️ I’m currently learning React js
+- ⚛️ I’m currently learning Next js
 - 💞️ I’m looking to collaborate on open source 
 
 <!---
