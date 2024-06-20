@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Development <br>👯 I’m looking to collaborate on Open Source <br>🤝 I’m looking for help with landing a job<br>🌱 I’m currently learning Next.js<br>💬 Ask me about anything 
+🔭 I’m currently working on Full Stack Development <br>👯 I’m looking to collaborate on Open Source <br>🤝 I’m looking for help with landing a job<br>🌱 I’m currently learning Docker<br>💬 Ask me about anything 
 
 
 ## 🌐 Socials:
